@@ -12,10 +12,10 @@ Features
 
 
 # Tech Stack
-- **AI Agents:** LangGraph, CrewAI (any framework supported)
+- **AI Agents:** LangGraph
 - **Vector Store:** FAISS for real-time financial embeddings
 - **LLM Processing:** OpenAI/GPT-based financial summaries
-- **Data Sources:** AlphaVantage API, Yahoo Finance, Scraped Market News
+- **Data Sources:** AlphaVantage API
 - **Backend:** FastAPI for orchestration
 - **Frontend:** Streamlit for user interaction
 - **Deployment:** Streamlit Community Cloud
