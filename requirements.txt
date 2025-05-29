@@ -1,0 +1,15 @@
+streamlit
+openai
+faiss-cpu
+langchain
+crewai
+whisper
+faster-whisper
+transformers
+torch
+pydub
+requests
+beautifulsoup4
+fastapi
+uvicorn
+python-dotenv
